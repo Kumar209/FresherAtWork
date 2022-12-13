@@ -601,7 +601,7 @@ a:focus-visible {
 
 @media screen and (min-width: 64em) {
   .hero__image {
-    background-image: url("./assets/desktop/image-hero.jpg");
+    background-image: url("../assets/desktop/image-hero.jpg");
   }
 }
 
